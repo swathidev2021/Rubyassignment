@@ -1,0 +1,13 @@
+puts "I will weight my Vegetables"
+puts "Beans #{8.5 + 9 / 6}kg"
+puts "Beetroots #{10 - 5.5 * 3 % 2}kg"
+puts "Now I will weight the Carrots"
+puts "Carrots #{3.5 + 2.7}kg"
+puts "Is it true that 2.5 + 3 < 5.5 - 7"
+puts 2.5 + 3 < 5.5 - 7
+puts "What is 2.5 + 3 #{2.5 + 3}"
+puts "What is 5.5 - 7 #{5.5 - 7}"
+puts "Oh Thats's why it is false"
+puts "Is it less? #{-2 < 5.5}"
+puts "Is it greater? #{-2.5 > -1.5}"
+puts "Is it less or equal #{-5.5 <= -1.5}"
