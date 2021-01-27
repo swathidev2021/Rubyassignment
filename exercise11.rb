@@ -1,7 +1,7 @@
-print "What month is this?"
+print "What month is this? "
 month = gets.chomp
-print "what is previous month"
+print "what is previous month? "
 previous_month = gets.chomp
-print "What is next month"
+print "What is next month? "
 next_month = gets.chomp
-puts "The months are #{month}, #{previous_month}, #{next_month}.."
+puts "The months are #{previous_month}, #{month}, #{next_month}.."

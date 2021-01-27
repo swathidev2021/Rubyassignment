@@ -21,9 +21,9 @@ Line2 = $stdin.gets.chomp
 print "Line3:"
 Line3 = $stdin.gets.chomp
 
-puts "Iam going to wtite these into the file"
+puts "Iam going to write these into the file"
 
-target.write(Line1, Line2, Line3)
+target.write(Line1,"\n"+ Line2, "\n" +Line3)
 
 
 
